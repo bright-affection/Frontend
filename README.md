@@ -6,3 +6,4 @@
 
 # 🌼목차🌼
 [22.12.29 Javascript 조건문](https://github.com/bright-affection/Frontend/blob/main/javascript_study/javascript%20%EC%A1%B0%EA%B1%B4%EB%AC%B8.md)
+[23.01.01 Javascript 함수](https://github.com/bright-affection/Frontend/blob/main/javascript_study/javascript%20%ED%95%A8%EC%88%98.md)
